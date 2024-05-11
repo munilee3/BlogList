@@ -1,0 +1,9 @@
+.blogitem-container {
+  width: 95%;
+  padding-left: 0px;
+}
+@media (min-width:992px) {
+  .blogitem-container{
+    width: 90%;
+  }
+}
